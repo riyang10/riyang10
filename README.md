@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil 
-## Meu nome é Ryan 
-##Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+# Meu nome é Ryan 
+# Estou estudando na Alura
+# Estou me desenvolvendo na linguagem JavaScript
+# Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **riyang10/riyang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
